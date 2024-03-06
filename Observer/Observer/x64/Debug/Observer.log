@@ -1,0 +1,6 @@
+﻿  Console.cpp
+  Utils.cpp
+C:\Users\Asus\source\repos\Observer\Observer\Utils.cpp(21,72): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  Observer.vcxproj -> C:\Users\Asus\source\repos\Observer\x64\Debug\Observer.exe
